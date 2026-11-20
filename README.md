@@ -1,26 +1,28 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/TERMINAL-%3E__-43E89D?style=flat-square&labelColor=101820" alt="Terminal">
+  <img src="./assets/terminal.svg" width="880" alt="Jesús Juárez Ramírez — Ingeniería en TI · Software, Cloud e IA aplicada">
 </p>
-<h1 align="center">Jesús Juárez Ramírez</h1>
-<p align="center"><strong>Desarrollo de software · Cloud · IA aplicada</strong></p>
+
 <p align="center">
-  <a href="https://github.com/JesusJuarezRamirez123/Portafolio"><img src="https://img.shields.io/badge/Ver_portafolio-43E89D?style=for-the-badge&logo=github&logoColor=101820" alt="Ver portafolio"></a>
+  <a href="https://github.com/JesusJuarezRamirez123/Portafolio"><kbd>↗ Ver portafolio</kbd></a>
+  &nbsp; · &nbsp;
+  <a href="#tecnologías">Tecnologías</a>
+  &nbsp; · &nbsp;
+  <a href="#proyecto-actual">Proyecto actual</a>
 </p>
 
----
+## Sobre mí
 
-### `~/perfil $ whoami`
+Estudio Ingeniería en Tecnologías de la Información e Innovación Digital. Me interesa el desarrollo backend y cómo combinar aplicaciones, bases de datos e IA para resolver problemas concretos.
 
-Estudio Ingeniería en Tecnologías de la Información e Innovación Digital. Desarrollo aplicaciones y exploro cómo usar Linux, bases de datos e IA generativa para resolver problemas concretos.
+## Tecnologías
 
-### `~/perfil $ ls stack/`
-
-| Área | Herramientas y temas |
+| Área | Herramientas |
 | :--- | :--- |
-| **Software** | `Python` · `Java` · `PHP` |
-| **Infraestructura y datos** | `Linux` · `Git` · `MySQL` · `SQLite` |
-| **IA aplicada** | `RAG` · `CrewAI` |
+| **Backend y software** | `Python` · `FastAPI` · `Java` · `PHP` |
+| **Infraestructura y datos** | `Linux` · `Docker` · `Git` · `MySQL` · `SQLite` |
+| **IA generativa** | `RAG` · `CrewAI` |
 
-### `~/perfil $ cat proyecto-actual`
+## Proyecto actual
 
-**Disponibilidad de medicamentos.** Proyecto académico de una plataforma para consultar la disponibilidad de medicamentos y facilitar su búsqueda.
+> **Disponibilidad de medicamentos**  
+> Proyecto académico para consultar la disponibilidad de medicamentos y facilitar su búsqueda.
